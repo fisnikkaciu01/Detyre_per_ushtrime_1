@@ -1,0 +1,99 @@
+div.wrap {
+	width: 980px;
+	margin: 0 auto;
+}
+
+div.logo {
+    width: 980px;
+}
+
+div.navigtion-bar {
+    width: 980px;
+}
+
+ul.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(43,193,192,255);
+}
+
+li.list-1 {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 10px 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+div.header-title {
+    display: inline-block;
+    width: 685px;  
+  }
+
+div.icons {
+    width: 285px;
+    height: 60px;
+    margin-top: 30px;
+    margin-right: 10px;
+    float: right;
+}
+
+div.header-img {
+    width: 980px;
+}
+
+img.clear {
+    margin: 0px;
+    float: left;
+}
+
+div.side-bar {
+    width: 245px;
+    float: left;
+}
+
+p.closeup {
+    margin-bottom: 0px;
+}
+
+div.body-area {
+    width: 735px;
+    float: left;
+    text-align: justify;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+p.qa-closeup {
+    margin: 0px;
+    text-indent: 42px;
+}
+
+div.interested {
+    width: 370px;
+    height: 110px;
+    padding-left: 10px;
+    float: left;
+    background-color: rgba(43,193,192,255);
+}
+
+div.frequency {
+    width: 335px;
+    height: 110px;
+    float: left;
+    background-color: rgba(43,193,192,255);
+}
+
+div.contact {
+    width: 265px;
+    height: 110px;
+    float: left;
+    background-color: rgba(43,193,192,255);
+}
