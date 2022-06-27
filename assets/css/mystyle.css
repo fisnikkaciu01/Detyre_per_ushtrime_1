@@ -35,6 +35,10 @@ li.list-1 {
   margin-left: 5px;
 }
 
+a {
+    color: blue;
+}
+
 a:hover{
   color: yellowgreen;
   text-decoration: none;
