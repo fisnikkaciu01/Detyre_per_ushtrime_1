@@ -13,20 +13,30 @@ div.navigtion-bar {
 
 ul.nav {
   list-style-type: none;
-  margin: 0;
   padding: 0;
+  margin: 0px;
   overflow: hidden;
   background-color: rgba(43,193,192,255);
+}
+
+li.bread {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 10px 0px;
+  margin-left: 10px;
 }
 
 li.list-1 {
   float: left;
   display: block;
   text-align: center;
-  padding: 10px 5px;
+  padding: 10px 0px;
+  margin-left: 5px;
 }
 
-a {
+a:hover{
+  color: yellowgreen;
   text-decoration: none;
 }
 
@@ -71,9 +81,9 @@ h4 {
     margin-bottom: 0px;
 }
 
-p.qa-closeup {
-    margin: 0px;
-    text-indent: 42px;
+blockquote {
+    margin-top: 0px;
+    text-align: justify;
 }
 
 div.interested {
